@@ -11,7 +11,6 @@ C:\Data\CDP Codes\HerokuRepo\MyFirstRepo\MyFirstHeroku\bin\roslyn\System.Reflect
 C:\Data\CDP Codes\HerokuRepo\MyFirstRepo\MyFirstHeroku\bin\roslyn\vbc.exe
 C:\Data\CDP Codes\HerokuRepo\MyFirstRepo\MyFirstHeroku\bin\roslyn\VBCSCompiler.exe
 C:\Data\CDP Codes\HerokuRepo\MyFirstRepo\MyFirstHeroku\bin\roslyn\VBCSCompiler.exe.config
-C:\Data\CDP Codes\HerokuRepo\MyFirstRepo\MyFirstHeroku\bin\MyFirstHeroku.dll.config
 C:\Data\CDP Codes\HerokuRepo\MyFirstRepo\MyFirstHeroku\bin\MyFirstHeroku.dll
 C:\Data\CDP Codes\HerokuRepo\MyFirstRepo\MyFirstHeroku\bin\MyFirstHeroku.pdb
 C:\Data\CDP Codes\HerokuRepo\MyFirstRepo\MyFirstHeroku\bin\Antlr3.Runtime.dll
